@@ -1,6 +1,6 @@
 ---
-title: "Bhagat Singh, Rajguru, and Sukhdev - Their Ideology and Relevance to the
-  Youth of Today by "
+title: Bhagat Singh, Rajguru, and Sukhdev - Their Ideology and Relevance to the
+  Youth of Today
 date: 2026-03-25T19:03:00.000+05:30
 author: " Priyojit"
 excerpt: Bhagat Singh, Rajguru, and Sukhdev were not just martyrs but
