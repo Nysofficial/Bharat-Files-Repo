@@ -21,11 +21,11 @@ function loadFolder(folder) {
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
-if (!fs.existsSync('./content/blog')) fs.mkdirSync('./content/blog', { recursive: true });
-if (!fs.existsSync('./content/research')) fs.mkdirSync('./content/research', { recursive: true });
+if (!fs.existsSync('./_posts/blog')) fs.mkdirSync('./_posts/blog', { recursive: true });
+if (!fs.existsSync('./_posts/research')) fs.mkdirSync('./_posts/research', { recursive: true });
 
-const blogs = loadFolder('./content/blog');
-const research = loadFolder('./content/research');
+const blogs = loadFolder('./_posts/blog');
+const research = loadFolder('./_posts/research');
 
 fs.writeFileSync('./content-data.js',
   `const BLOGS = ${JSON.stringify(blogs, null, 2)};\n` +
