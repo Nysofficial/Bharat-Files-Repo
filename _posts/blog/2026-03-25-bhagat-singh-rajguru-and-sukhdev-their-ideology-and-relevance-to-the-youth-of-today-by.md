@@ -6,8 +6,7 @@ author: " Priyojit"
 excerpt: Bhagat Singh, Rajguru, and Sukhdev were not just martyrs but
   visionaries whose ideology of justice, equality, and rational thinking
   continues to inspire India's youth in building a better nation.
-tags:
-  - Freedom Struggle
+tags: []
 ---
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhev3s0WkztcBV4kTZbn1zrXzZ2hLCk1zosqo7lMMz-XkT9eYjX8-pYf_ClUcElC60q3vmAGz9VN7OWPMCs6K2mLCCkgNB4_Zqu2VCW8oWpFl0_w728BRM001HYQO5gRcDC_W1fO8TRAwVMYRH4xh-ibWWsJ_ht-hjCsH7aPk2N15xytMubvYunJi2Pb1t9/s1024/bhagat-singh-at-central-jail-1024x730.jpg)
 
