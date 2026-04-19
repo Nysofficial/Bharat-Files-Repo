@@ -5,10 +5,21 @@ function parseFrontmatter(text) {
   const match = text.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return {};
   const obj = {};
-  match[1].split('\n').forEach(line => {
-    const [k, ...v] = line.split(': ');
-    if (k && k.trim()) obj[k.trim()] = v.join(': ').trim().replace(/^"|"$/g, '');
+  const lines = match[1].split('\n');
+  let currentKey = null;
+
+  lines.forEach(line => {
+    // Check if line starts a new key
+    const keyMatch = line.match(/^([a-zA-Z_][a-zA-Z0-9_]*):\s*(.*)/);
+    if (keyMatch) {
+      currentKey = keyMatch[1].trim();
+      obj[currentKey] = keyMatch[2].trim().replace(/^["']|["']$/g, '');
+    } else if (currentKey && line.startsWith('  ')) {
+      // Multi-line value continuation
+      obj[currentKey] += ' ' + line.trim().replace(/^["']|["']$/g, '');
+    }
   });
+
   return obj;
 }
 
