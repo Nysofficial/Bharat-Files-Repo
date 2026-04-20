@@ -30,6 +30,8 @@ The Triple Legacy and Today’s Youth History shows us that it was a rare blend 
 
 ##### source:
 
-*  <http://www.shahidbhagatsingh.org/index.asp?linkid=37> This site is managed by the Balidaani Bhagat Singh Research Committee and his own family (Prof. Jagmohan Singh). It contains the digitized [HSRA Manifesto](https://www.google.com/search?ved=1t:260882&q=HSRA+Manifesto+content&bbid=1796604895566559000&bpid=2467701535380694200) and his personal letters.
-* **<https://delhiarchives.delhi.gov.in/archives/bhagat-singh-archives-and-resource-centre>** This is the most formal government link you can use. It belongs to the Government of NCT of Delhi and details the over 1,500 books and rare documents they have preserved from the trio’s life
-* **<http://www.shahidbhagatsingh.org/>** This is the definitive archive maintained under the guidance of Prof. Jagmohan Singh (Bhagat Singh's nephew). It is the best place to read the full HSRA Manifesto and his letters to the government.
+ (http://www.shahidbhagatsingh.org ) This site is managed by the Balidaani Bhagat Singh Research Committee and his own family (Prof. Jagmohan Singh). It contains the digitized HSRA Manifesto and his personal letters.
+
+(https://delhiarchives.delhi.gov.in/archives/bhagat-singh-archives-and-resource-centre) This is the most formal government link you can use. It belongs to the Government of NCT of Delhi and details the over 1,500 books and rare documents they have preserved from the trio’s life
+
+(http://www.shahidbhagatsingh.org/) This is the definitive archive maintained under the guidance of Prof. Jagmohan Singh (Bhagat Singh's nephew). It is the best place to read the full HSRA Manifesto and his letters to the government.
