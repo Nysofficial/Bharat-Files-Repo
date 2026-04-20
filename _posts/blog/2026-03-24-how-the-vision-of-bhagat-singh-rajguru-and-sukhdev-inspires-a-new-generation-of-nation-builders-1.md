@@ -11,8 +11,6 @@ tags:
 ---
 Jai Hind to all We are all familiar with the profound sacrifice of Balidaani Bhagat Singh, Balidaani Rajguru, and Balidaani Sukhdev. While history rightfully honors their brave resistance against the British Empire popular culture sometimes focuses only on their actions. However their true legacy also lies in their sophisticated ideological vision. These young martyrs were not just soldiers; they were deep thinkers and visionaries who dreamt of an India free from both foreign rule and internal inequality. By revisiting their writings and philosophies we discover a blueprint for a just, inclusive and progressive nation that continues to inspire us today
 
-![]()
-
 ##  **The Intellectual Evolution of Bhagat Singh**
 
 To truly understand how **Balidaani Bhagat Singh ji** thought, one must look beyond the pistol; one must look toward **his pen and his original work**, Jail Diary. He was a s**cholar in the truest and clearest sense**. His **ideology was not born from anger or impulsiveness but from the 300 books he rigorously studied while he was captured and imprisoned**. His **vision** was for a **scientific socialism where poverty and exploitation would be abolished and erased forever**. He repeatedly argued in his letters that a **revolutionary’s first duty is to study**, and his **thinking evolved from simple nationalism to a broader vision of universal brotherhood**. He believed that for **India to be truly free**, it had to **break the chains of communalism and mental slavery**. His 'Inqilab' was not just a political revolution but a social one a dream of an India where every citizen, regardless of caste or creed, had the right to dignity and equality. This sophisticated vision, supported by his own handwritten notes, remains his greatest gift to the youth of today.
@@ -28,9 +26,9 @@ To truly understand how **Balidaani Bhagat Singh ji** thought, one must look bey
 **Conclusion:**\
 The Triple Legacy and Today’s Youth History shows us that it was a rare blend of philosophy, strategy, and bravery when Balidaani Bhagt Singh Balidaani Sukhdev, and Balidaani Rajguru came together. They proved that India didn't just have to fight against an external enemy, but also against the internal flaws of society. They envisioned an India free from the chains of casteism, economic exploitation, and communalism. Today’s youth should take inspiration from such brave fighters and soldiers. In an era of vast and mixed information, we must follow their lead by studying deeply and thinking critically. Their legacy teaches us that true revolution begins in the mind, and our greatest tribute to them is to continue building the just and equal India they dreamt of. Jai Hind.
 
-##### source:
+##### **source:**
 
- (http://www.shahidbhagatsingh.org ) This site is managed by the Balidaani Bhagat Singh Research Committee and his own family (Prof. Jagmohan Singh). It contains the digitized HSRA Manifesto and his personal letters.
+(http://www.shahidbhagatsingh.org ) This site is managed by the Balidaani Bhagat Singh Research Committee and his own family (Prof. Jagmohan Singh). It contains the digitized HSRA Manifesto and his personal letters.
 
 (https://delhiarchives.delhi.gov.in/archives/bhagat-singh-archives-and-resource-centre) This is the most formal government link you can use. It belongs to the Government of NCT of Delhi and details the over 1,500 books and rare documents they have preserved from the trio’s life
 
