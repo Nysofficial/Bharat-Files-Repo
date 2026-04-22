@@ -4,13 +4,12 @@ title: Bhagat Singh, Rajguru, and Sukhdev - Their Ideology and Relevance to the
 date: 2026-03-25T16:10:00.000+05:30
 author: " Priyojit"
 cover_image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhev3s0WkztcBV4kTZbn1zrXzZ2hLCk1zosqo7lMMz-XkT9eYjX8-pYf_ClUcElC60q3vmAGz9VN7OWPMCs6K2mLCCkgNB4_Zqu2VCW8oWpFl0_w728BRM001HYQO5gRcDC_W1fO8TRAwVMYRH4xh-ibWWsJ_ht-hjCsH7aPk2N15xytMubvYunJi2Pb1t9/s500/bhagat-singh-at-central-jail-1024x730.jpg
-excerpt: >-
-  Bhagat Singh believed that revolution mainly meant bringing about a
+excerpt: Bhagat Singh believed that revolution mainly meant bringing about a
   revolutionary change in society by challenging the status quo and arousing the
   masses. Their ideology urges the youth to think, get involved in the
-  democratic process, and be responsible citizens.
-
-  They were not only martyrs but also visionaries whose ideas and ideologies are still highly relevant even today
+  democratic process, and be responsible citizens. They were not only martyrs
+  but also visionaries whose ideas and ideologies are still highly relevant even
+  today
 tags:
   - History
   - Youth
